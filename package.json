@@ -1,0 +1,23 @@
+{
+  "name": "video-rescaling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Markussim/video-rescaling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Markussim/video-rescaling/issues"
+  },
+  "homepage": "https://github.com/Markussim/video-rescaling#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
